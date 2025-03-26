@@ -1,4 +1,4 @@
-## 👋 Olá, seja bem-vindo ao meu perfil!
+## 👋 Oii, seja bem-vindo ao meu perfil!
 
 [![GitHub followers](https://img.shields.io/github/followers/eduardos4antos?label=Follow&style=social)](https://github.com/eduardos4antos)
 
