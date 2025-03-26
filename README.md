@@ -1,48 +1,22 @@
-## 👋 Oii, seja bem-vindo ao meu perfil!
+## Olá, eu sou o Darlan Hildebrando! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
-🎓 Atualmente cursando o **3º semestre de Desenvolvimento de Sistemas** no **Senai**.
+🌱 Meu objetivo é transformar vidas através da tecnologia!
 
-🚀 Apaixonado por tecnologia e desenvolvimento web!
+🎯 Atualmente aprendendo Java!
 
----
+## 📬 Contato
+- [LinkedIn](https://www.linkedin.com/in/darlan-hildebrando-7b3a44312/)
+- Email: [darlanmari41@email.com](mailto:darlanmari41@email.com)
 
-## 🛠️ Tecnologias e Ferramentas:
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5 logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3 logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="45" alt="Tailwind CSS logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="45" alt="Next.js logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" height="45" alt="React Native logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL logo"  />
-</div>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Tecnologias & Ferramentas
 
-📌 Sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
----
+## ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarlanHildebrando&show_icons=true&bg_color=0E1729&title_color=CCB3FF&text_color=D6D9E0&icon_color=BBD99E&border_color=4F5B66)
 
-## 📊 Estatísticas do GitHub:
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eduardos4antos&show_icons=true&count_private=true&hide_border=true&title_color=26A653&icon_color=26A653&text_color=c9d1d9&bg_color=0d1117" alt="Eduardo Santos GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardos4antos&layout=compact&hide_border=true&title_color=26A653&text_color=26A653&bg_color=0d1117" />
-</div>
-
-👀 **Visitantes do Perfil:**
-![Profile Views](https://komarev.com/ghpvc/?username=eduardos4antos&color=brightgreen&style=flat&label=Visitantes+do+Perfil&logo=github&logoColor=white)
-
----
-
-## 📬 Como me encontrar?
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/001.eduardo/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardos4antos/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/seunumerodetelefone
+<img src='https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif'/>
