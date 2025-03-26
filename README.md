@@ -27,8 +27,9 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardos4antos&layout=compact&hide_border=true&title_color=26A653&text_color=26A653&bg_color=0d1117" />
 </div>
 
-👀 **Visitantes do Perfil:**
-![Profile Views](https://komarev.com/ghpvc/?username=eduardos4antos&color=green)
+## 👀 **Visitantes do Perfil:**
+![Profile Views](https://komarev.com/ghpvc/?username=eduardos4antos&color=brightgreen&style=flat&label=Visitantes+do+Perfil&logo=github&logoColor=white)
+
 
 ---
 
