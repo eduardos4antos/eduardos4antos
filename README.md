@@ -41,6 +41,8 @@
 > A **InkluaTicket** é um site em desenvolvimento voltado para promover a **acessibilidade na compra e venda de ingressos** de eventos.  
 > O objetivo é garantir que todos, independentemente de suas limitações, consigam ter uma experiência inclusiva ao buscar eventos.
 
+Você pode acessar o repositório do projeto [aqui](https://github.com/InkluaTicket/SA-Senai-3Fase.git).
+
 Mais novidades em breve! 👀
 
 ## 📚 Meus objetivos
