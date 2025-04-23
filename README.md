@@ -7,34 +7,34 @@
 ## 🛠️ Tecnologias e Ferramentas que utilizo
 
 ### 💬 Linguagens de Programação
-- JavaScript  
-- Node.js
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-- ### 🧩 Full Stack Framework
-- Next.js *(usado tanto para frontend quanto para rotas e APIs internas)*
+### 🧩 Full Stack Framework
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) *(usado tanto para frontend quanto para rotas e APIs internas)*
 
 ### 🧾 Linguagens de Marcação e Estilo
-- HTML  
-- CSS
+- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)  
+- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### 💡 Frontend
-- React   
-- Tailwind CSS
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ### 🛠️ Backend
-- Node.js  
-- Express
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+- ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 
 ### 🗄️ Banco de Dados
-- PostgreSQL
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 ### 🧪 Testes
-- Jest  
+- ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)  
 - **Qase** (como ferramenta de gerenciamento de testes)
 
 ### ⚙️ Ferramentas de Desenvolvimento
-- Nodemon  
-- Git & GitHub
+- ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=flat&logo=nodemon&logoColor=white)  
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ## 🌐 Projeto em destaque: InkluaTicket
 
@@ -57,4 +57,4 @@ Mais novidades em breve! 👀
 
 ---
 
-> *"Não é sobre saber tudo, é sobre sempre ter oque aprender."*
+> *"Não é sobre saber tudo, é sobre sempre ter o que aprender."*
