@@ -58,8 +58,8 @@ Mais novidades em breve! 👀
 
 ## 📫 Como me encontrar
 
-- Email: **[]**  
-- LinkedIn: [)
+- Email: **[eduardohenzo11@gmai.com]**  
+- LinkedIn: [https://www.linkedin.com/in/eduardo-santos-b4894834b]
 
 ---
 
