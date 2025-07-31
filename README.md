@@ -68,6 +68,7 @@ Mais novidades em breve! 👀
 
 - 📧 Email: [eduardohenzo11@gmail.com](mailto:eduardohenzo11@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/eduardo-santos-b4894834b](https://www.linkedin.com/in/eduardo-santos-b4894834b)
+- 🌐 Instagram: [https://www.instagram.com/001.eduardo/](https://www.instagram.com/001.eduardo/)
 
 ---
 
