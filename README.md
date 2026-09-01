@@ -1,78 +1,262 @@
-# 👋 Olá! Eu sou o Eduardo
+👋 Olá! Eu sou o Eduardo
 
-🎓 Estudante de **Desenvolvimento de Sistemas** no SENAI  
-💻 Apaixonado por desenvolvimento web e acessibilidade digital  
-🚧 Atualmente desenvolvendo o projeto **InkluaTicket**, um site focado em acessibilidade na compra e venda de ingressos de eventos
+🎓 Tecnólogo em Desenvolvimento de Sistemas
+💻 Desenvolvedor com foco em Backend, Dados, Inteligência Artificial, Automação e Banco de Dados.
 
----
+Gosto de construir sistemas, APIs e soluções automatizadas, trabalhando principalmente com Python, Node.js, bancos de dados e processamento de dados.
 
-## 🛠️ Tecnologias e Ferramentas que utilizo
+🧠 Foco
 
-### 💬 Linguagens de Programação  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+⚙️ Backend & APIs — desenvolvimento de serviços, regras de negócio e integrações.
 
-### 🧩 Full Stack Framework  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) 
+🗄️ Banco de Dados — modelagem, consultas, persistência e organização de dados.
 
-### 🧾 Linguagens de Marcação e Estilo  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+📊 Dados — processamento, validação e transformação de informações.
 
-### 💡 Frontend  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+🤖 Inteligência Artificial — integração de IA em aplicações e automação.
 
-### 🛠️ Backend  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+🔄 Automação — criação de soluções para reduzir tarefas manuais e otimizar processos.
 
-### 🗄️ Banco de Dados  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+🐳 Docker & Linux — ambientes de desenvolvimento e aplicações containerizadas.
 
-### 🧪 Testes  
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)  
-![Qase](https://img.shields.io/badge/Qase-4E5EE4?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMTIgMTIiIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiI+PHJlY3Qgd2lkdGg9IjEyIiBoZWlnaHQ9IjEyIiByeD0iMiIgZmlsbD0iI0U1RTVFRSIvPjwvc3ZnPg==) 
+🛠️ Tecnologias e Ferramentas
 
-### ⚙️ Ferramentas de Desenvolvimento  
-![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=flat&logo=nodemon&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)  
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+⚙️ Backend & Linguagens
 
----
+🐍 Python
 
-## 🌐 Projeto em destaque: InkluaTicket
 
-> A **InkluaTicket** é um site em desenvolvimento voltado para promover a **acessibilidade na compra e venda de ingressos** de eventos.  
-> O objetivo é garantir que todos, independentemente de suas limitações, consigam ter uma experiência inclusiva ao buscar eventos.
 
-<p align="center">
-  <a href="https://github.com/InkluaTicket/SA-Senai-3Fase" target="_blank">
-    <img src="https://img.shields.io/badge/Acessar%20Reposit%C3%B3rio-38B2AC?style=for-the-badge&logo=github&logoColor=white" alt="Acessar Repositório">
-  </a>
-</p>
+Linguagem que utilizo principalmente em backend, automação, processamento de dados e aplicações relacionadas à IA.
 
-Mais novidades em breve! 👀
+🟢 Node.js
 
----
 
-## 📚 Meus objetivos
 
-- Me tornar um desenvolvedor full stack  
-- Criar soluções úteis e acessíveis  
-- Aprender mais sobre testes, deploy e boas práticas de código  
-- Compartilhar conhecimento com outros devs iniciantes
+Runtime JavaScript utilizado para desenvolvimento de APIs, serviços backend e integrações.
 
----
+🔷 TypeScript
 
-## 📫 Como me encontrar
 
-- 📧 Email: [eduardohenzo11@gmail.com](mailto:eduardohenzo11@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/eduardo-santos-b4894834b](https://www.linkedin.com/in/eduardo-santos-b4894834b)  
-- 🌐 Instagram: [https://www.instagram.com/001.eduardo/](https://www.instagram.com/001.eduardo/)
 
----
+Superset do JavaScript que utilizo para desenvolver aplicações com tipagem estática e maior segurança durante o desenvolvimento.
 
-> *"Não é sobre saber tudo, é sobre sempre ter o que aprender."*
+🟨 JavaScript
+
+
+
+Linguagem utilizada no desenvolvimento de aplicações web, lógica de frontend e backend com Node.js.
+
+🗄️ Banco de Dados
+
+🐘 PostgreSQL
+
+
+
+Banco de dados relacional utilizado para armazenamento estruturado, consultas SQL e aplicações backend.
+
+🐬 MySQL
+
+
+
+Banco de dados relacional utilizado em aplicações que necessitam de persistência e gerenciamento estruturado de dados.
+
+🍃 MongoDB
+
+
+
+Banco de dados NoSQL orientado a documentos, utilizado para trabalhar com estruturas de dados mais flexíveis.
+
+Prisma
+
+
+
+ORM utilizado em projetos Node.js/TypeScript para acesso, modelagem e gerenciamento de bancos de dados.
+
+🤖 Dados, IA & Automação
+
+OpenAI
+
+
+
+Utilizada para integração de recursos de Inteligência Artificial em aplicações e automações.
+
+Streamlit
+
+
+
+Framework Python utilizado para criar interfaces e aplicações voltadas para dados e processamento de informações.
+
+Pandas
+
+
+
+Biblioteca Python utilizada para manipulação, análise e transformação de dados.
+
+🐳 Infraestrutura & Sistemas
+
+Docker
+
+
+
+Plataforma utilizada para criar ambientes isolados e reproduzíveis através de containers.
+
+Linux
+
+
+
+Sistema operacional e ambiente utilizado para desenvolvimento, terminal, servidores e administração de aplicações.
+
+Ubuntu
+
+
+
+Distribuição Linux utilizada como ambiente de desenvolvimento e execução de ferramentas backend.
+
+WSL
+
+
+
+Windows Subsystem for Linux utilizado para trabalhar com ambientes Linux diretamente no Windows.
+
+🌐 Desenvolvimento Web
+
+HTML5
+
+
+
+Linguagem de marcação utilizada para estruturar páginas e aplicações web.
+
+CSS3
+
+
+
+Linguagem utilizada para estilização, layout e apresentação de aplicações web.
+
+React
+
+
+
+Biblioteca JavaScript utilizada para construir interfaces web baseadas em componentes.
+
+Next.js
+
+
+
+Framework React utilizado para desenvolver aplicações web modernas com recursos de frontend e backend.
+
+Tailwind CSS
+
+
+
+Framework CSS utilizado para criar interfaces de forma rápida e consistente através de classes utilitárias.
+
+🧪 Testes & Desenvolvimento
+
+Pytest
+
+
+
+Framework de testes para Python utilizado para testes automatizados e validação de funcionalidades.
+
+Jest
+
+
+
+Framework de testes utilizado principalmente em projetos JavaScript e TypeScript.
+
+Postman
+
+
+
+Ferramenta utilizada para testar, validar e documentar APIs.
+
+🔧 Ferramentas de Desenvolvimento
+
+Git
+
+
+
+Sistema de controle de versão utilizado para gerenciar histórico, branches e alterações de código.
+
+GitHub
+
+
+
+Plataforma utilizada para hospedar projetos, colaborar e gerenciar repositórios Git.
+
+Bitbucket
+
+
+
+Plataforma de hospedagem de repositórios Git utilizada em fluxos de desenvolvimento e colaboração.
+
+Jira
+
+
+
+Ferramenta utilizada para gerenciamento de tarefas, projetos e fluxos de trabalho de desenvolvimento.
+
+VS Code
+
+
+
+Editor de código utilizado no desenvolvimento de aplicações, APIs e projetos de software.
+
+📋 Outras Ferramentas
+
+Microsoft Office
+
+Utilizo ferramentas como Excel, Word e PowerPoint para organização de informações, documentação e atividades profissionais.
+
+CRM
+
+Conhecimento e contato com sistemas de Customer Relationship Management, utilizados para organização de clientes, processos e informações comerciais.
+
+Figma
+
+Ferramenta utilizada para prototipação, wireframes e organização visual de interfaces.
+
+Trello
+
+Ferramenta utilizada para organização de tarefas e acompanhamento de projetos.
+
+🚀 Projetos Pessoais
+
+📊 Data Ingestion Pipeline
+
+Pipeline inteligente para ingestão, validação e processamento de dados, com automação e integração com IA.
+
+Python • Streamlit • Pytest • SQLite • IA • CSV • JSON
+
+🔗 Ver projeto
+
+🎟️ InkluaTicket
+
+Plataforma web desenvolvida com foco em acessibilidade na compra e venda de ingressos para eventos.
+
+JavaScript • Node.js • Next.js • React • Banco de Dados
+
+🔗 Ver projeto
+
+🐍 Python Revisão
+
+Repositório pessoal com exercícios e estudos de Python, utilizado para consolidar os fundamentos da linguagem.
+
+Python • Estruturas de Dados • Arquivos • Exceções
+
+🔗 Ver projeto
+
+🎯 Objetivo
+
+Continuar evoluindo principalmente em Backend, Dados, Inteligência Artificial, Automação e Banco de Dados, construindo soluções eficientes, organizadas e voltadas para problemas reais.
+
+📫 Contato
+
+📧 Email: eduardohenzo11@gmail.com
+
+💼 LinkedIn: linkedin.com/in/eduardo-santos-b4894834b
+
+🌐 Instagram: instagram.com/001.eduardo
+
+"Código é apenas uma ferramenta. O objetivo é construir soluções."
